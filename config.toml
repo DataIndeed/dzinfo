@@ -1,5 +1,5 @@
 title = "Data Zenatic"
-baseURL = "https://datazenatic.com/"
+baseURL = "www.datazenatic.com"
 languageCode = "en-us"
 theme = "ananke"
 #themesDir = "../.."
