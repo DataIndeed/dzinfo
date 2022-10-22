@@ -1,5 +1,5 @@
 title = "Data Zenatic"
-baseURL = "https://nimble-marigold-d48690.netlify.app/"
+baseURL = "https://datazenatic.netlify.app/"
 languageCode = "en-us"
 theme = "ananke"
 #themesDir = "../.."
