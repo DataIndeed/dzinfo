@@ -1,5 +1,5 @@
 title = "Data Zenatic"
-baseURL = "https://datazenatic.netlify.app/"
+baseURL = "https://datazenatic.com/"
 languageCode = "en-us"
 theme = "ananke"
 #themesDir = "../.."
